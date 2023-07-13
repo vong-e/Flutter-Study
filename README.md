@@ -1,6 +1,6 @@
 # toonflix
 
-A new Flutter project.
+nomadcoders의 flutter로 웹툰 만들기 강의를 실습해보는 레파지토리 입니다.
 
 ## Getting Started
 
